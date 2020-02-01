@@ -1,5 +1,4 @@
-# Edge-Detection-using-Raspberry-Pi-Zero
-Edge Detection using Raspberry Pi Zero with MATLAB
+# Edge Detection using Raspberry Pi Zero with MATLAB
 
 Here is what you need for experiment,
 ```bash
